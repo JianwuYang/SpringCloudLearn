@@ -8,8 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/vikingyang/config
-          search-paths: SpringCloudLearn
+          uri: https://gitee.com/vikingyang/SpringCloudLearn.git
+          search-paths: config
 
 eureka:
   client:
